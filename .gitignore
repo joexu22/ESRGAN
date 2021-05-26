@@ -140,6 +140,4 @@ cython_debug/
 
 # Custom
 *.pth
-input/**/*.*
-output/**/*.*
 .vscode/
